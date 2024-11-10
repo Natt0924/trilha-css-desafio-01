@@ -4,7 +4,7 @@ body {
 }
 h2 {
   font-size: 2rem;
-  color: #33A8DB;
+  color: #33db8d;
   font-weight: bold;
   letter-spacing: 4px;
   text-transform: uppercase;
@@ -35,7 +35,7 @@ section {
   font-weight: 900;
   text-transform: uppercase;
   color: transparent;
-  background: -webkit-linear-gradient(#33A8DB, #1472B7);
+  background: -webkit-linear-gradient(#33db8d, #14b72f);
   background-clip: text;
   -webkit-background-clip: text;
 }
@@ -59,14 +59,14 @@ section {
   object-fit: contain;
 }
 .banner .banner-content button {
-  color: #31A8DD;
+  color: #31dd4e;
   font-size: 1rem;
   font-weight: bold;
   padding: 16px 32px;
   text-transform: uppercase;
   letter-spacing: 4px;
   background-color: transparent;
-  border-image: linear-gradient(#3BA1CD, #1572B7);
+  border-image: linear-gradient(#3bcd4f, #14b72f);
   border-image-slice: 10;
   border-radius: 30px;
 }
@@ -81,7 +81,7 @@ section {
   color: white;
   width: 530px;
   margin: 0 auto 24px;
-  border: 1px solid #33A8DB;
+  border: 1px solid #33db49;
   background-color: #252525;
   padding: 16px;
   border-radius: 100px;
@@ -123,7 +123,7 @@ footer .dio-logo {
   width: 300px;
 }
 footer a {
-  color: #33A8DB;
+  color: #33db8d;
   font-weight: bold;
   text-decoration: none;
 }
