@@ -22,7 +22,7 @@ section {
   background-repeat: no-repeat;
   height: 600px;
   padding-top: 60px;
-  border-bottom: 1px solid #33A8DB80;
+  border-bottom: 1px solid #0ece4e80;
 }
 .banner .banner-content {
   color: white;
@@ -95,8 +95,8 @@ section {
   background-size: cover;
   background-image: url("../images/woman-code.png");
   background-attachment: fixed;
-  border-top: 1px solid #33A8DB80;
-  border-bottom: 1px solid #33A8DB80;
+  border-top: 1px solid #0ece4e80;
+  border-bottom: 1px solid #0ece4e80;
   padding: 200px;
 }
 #transform-world p {
@@ -104,7 +104,7 @@ section {
   font-size: 2.5rem;
   text-transform: lowercase;
   max-width: 250px;
-  text-shadow: 3px 2px #33A8DB;
+  text-shadow: 3px 2px #33db8d;
 }
 #professional-challenges {
   text-align: center;
@@ -117,7 +117,7 @@ footer {
   padding: 60px 0;
   text-align: center;
   background-image: linear-gradient(rgba(50, 168, 219, .0), rgba(50, 168, 219, .2));
-  border-top: 1px solid #33A8DB80;
+  border-top: 1px solid #0ece4e80;
 }
 footer .dio-logo {
   width: 300px;
